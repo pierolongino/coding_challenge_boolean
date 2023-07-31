@@ -1,0 +1,63 @@
+.container {
+    margin: 190px;
+    width: 65%;
+    border-radius: 30px;
+    padding: 79px;
+    background-color: rgba(0, 0, 0, 0.548);
+}
+
+body {
+    background-image: url(immagini/background.jpg);
+    background-size: 100%;
+}   
+
+header{
+    margin: auto;
+    text-align: center;
+    width: 60%;
+}
+
+.logo {
+    width: 190px;
+    margin: auto;
+}
+
+header h1 {
+    color: #00dd00;
+}
+
+nav{    
+    background-color:#00dd00;
+    text-align: center;
+    padding:14px;
+}
+
+.Monopattino h2 {
+    display: inline-block;
+    color: white;
+    ;
+    
+}
+
+.Monopattino p {
+    color: white;
+}
+
+main p, h2 {
+    margin: 4px;
+}
+
+#Gino22 {
+    background-color: #c0e715;
+    width: 356px;
+}
+
+#Paolo2 {
+    background-color: #e71515;
+    width: 20px;
+}
+
+#Marco5 {
+    background-color: #15e738;
+    width: 556px;
+}
